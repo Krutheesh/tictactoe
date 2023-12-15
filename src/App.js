@@ -104,7 +104,7 @@ updatePcscore(pcscore-1);
 
   }
   return (
-<>
+<div className="bg-slate-900">
   <h1 className="md:text-[2.5rem] text-white text-center border-2">ROCK, SCISSOR AND PAPER GAME (ReactJs)</h1>
   <main>
     <div className="flex justify-center items-center ">
@@ -137,7 +137,7 @@ updatePcscore(pcscore-1);
     </section>
     
   </main>
-  </>
+  </div>
 
   )
   
